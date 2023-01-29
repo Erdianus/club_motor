@@ -5,33 +5,41 @@
             <hr>
             <div class="row pt-4">
                 <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery1.jpeg') ?>">
+                    <a href="<?= base_url('assets/img/gallery/gallery1.jpeg') ?>" data-lightbox="gallery"
+                        data-title="Dokumentasi Kegiatan">
+                        <img src="<?= base_url('assets/img/gallery/gallery1.jpeg') ?>">
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery2.jpg') ?>">
+                    <a href="<?= base_url('assets/img/gallery/gallery2.jpg') ?>" data-lightbox="gallery"
+                        data-title="Dokumentasi Kegiatan">
+                        <img src="<?= base_url('assets/img/gallery/gallery2.jpg') ?>">
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery3.jpeg') ?>">
+                    <a href="<?= base_url('assets/img/gallery/gallery3.jpeg') ?>" data-lightbox="gallery"
+                        data-title="Dokumentasi Kegiatan">
+                        <img src="<?= base_url('assets/img/gallery/gallery3.jpeg') ?>">
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery4.webp') ?>">
+                    <a href="<?= base_url('assets/img/gallery/gallery4.webp') ?>" data-lightbox="gallery"
+                        data-title="Dokumentasi Kegiatan">
+                        <img src="<?= base_url('assets/img/gallery/gallery4.webp') ?>">
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery5.jpeg') ?>">
+                    <a href="<?= base_url('assets/img/gallery/gallery5.jpeg') ?>" data-lightbox="gallery"
+                        data-title="Dokumentasi Kegiatan">
+                        <img src="<?= base_url('assets/img/gallery/gallery5.jpeg') ?>">
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery6.jpg') ?>">
+                    <a href="<?= base_url('assets/img/gallery/gallery6.jpg') ?>" data-lightbox="gallery"
+                        data-title="Dokumentasi Kegiatan">
+                        <img src="<?= base_url('assets/img/gallery/gallery6.jpg') ?>">
+                    </a>
                 </div>
-                <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery4.webp') ?>">
-                </div>
-                <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery5.jpeg') ?>">
-                </div>
-                <div class="col-lg-3 col-md-6 mt-3 d-flex justify-content-center">
-                    <img src="<?= base_url('assets/img/gallery/gallery6.jpg') ?>">
-                </div>
-
             </div>
         </div>
     </div>

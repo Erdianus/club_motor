@@ -20,6 +20,7 @@
     <!-- Custom styles for this template-->
     <link href="<?= base_url('assets/') ?>css/sb-admin-2.css" rel="stylesheet">
     <link href="<?= base_url('assets/') ?>css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?= base_url('assets/') ?>css/lightbox.css">
 
 </head>
 
